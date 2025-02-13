@@ -13,8 +13,8 @@ namespace AppPanel.DAL.Classes.AppsClasses
         public PanelApp PanelApp { get; set; }
 
 
-        public string Color { get; set; }
+        public string? Color { get; set; }
 
-        public string Desc { get; set; }
+        public string? Desc { get; set; }
     }
 }

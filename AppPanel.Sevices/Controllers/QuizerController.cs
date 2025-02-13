@@ -1,12 +1,10 @@
-﻿using AppPanel.BLL.DTO.QuizAppDTO;
-using AppPanel.BLL.Interfaces;
+﻿using AppPanel.BLL.Interfaces;
 using AppPanel.DAL.Classes.EnglishQuizerClasses;
 using AppPanel.DAL.Enums;
 using AppPanel.Sevices.Models.BaseModels;
 using AppPanel.Sevices.Models.QuizerModels;
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
